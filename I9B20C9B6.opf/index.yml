@@ -1,0 +1,11 @@
+id: 20e975a81c61412a9784733b74d65c0c
+annotation_type: index
+revision: '00001'
+annotations:
+  d344836e1b874fec9e612ba5e9dfdcae:
+    base: 9B24.txt
+    Chapters:
+    - title: Kośāmbakavastu
+      span:
+        start: 0
+        end: 33405
